@@ -1,0 +1,1 @@
+c:\users\frederick.clark\documents\visual studio 11\Projects\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.exe.config

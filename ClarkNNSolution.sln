@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClarkNN", "NeuralNetworks\ClarkNN.csproj", "{4558F110-0B80-4722-A8BA-845F1D49B3E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClarkNNTester", "ClarkNNTester\ClarkNNTester.csproj", "{CF8B2438-8B6E-40E2-89FE-2FFDCA5DC2A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4558F110-0B80-4722-A8BA-845F1D49B3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4558F110-0B80-4722-A8BA-845F1D49B3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4558F110-0B80-4722-A8BA-845F1D49B3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4558F110-0B80-4722-A8BA-845F1D49B3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF8B2438-8B6E-40E2-89FE-2FFDCA5DC2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8B2438-8B6E-40E2-89FE-2FFDCA5DC2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8B2438-8B6E-40E2-89FE-2FFDCA5DC2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8B2438-8B6E-40E2-89FE-2FFDCA5DC2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

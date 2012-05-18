@@ -1,0 +1,8 @@
+C:\Users\frederick.clark\Documents\Visual Studio 11\Projects\NeuralNetworks\NeuralNetworks\obj\Debug\ClarkNN.csprojResolveAssemblyReference.cache
+C:\Users\frederick.clark\Documents\Visual Studio 11\Projects\NeuralNetworks\NeuralNetworks\obj\Debug\ClarkNN.Brain.Properties.Resources.resources
+C:\Users\frederick.clark\Documents\Visual Studio 11\Projects\NeuralNetworks\NeuralNetworks\obj\Debug\ClarkNN.csproj.GenerateResource.Cache
+C:\Users\frederick.clark\Documents\Visual Studio 11\Projects\NeuralNetworks\NeuralNetworks\bin\Debug\ClarkNN.dll.config
+C:\Users\frederick.clark\Documents\Visual Studio 11\Projects\NeuralNetworks\NeuralNetworks\bin\Debug\ClarkNN.dll
+C:\Users\frederick.clark\Documents\Visual Studio 11\Projects\NeuralNetworks\NeuralNetworks\bin\Debug\ClarkNN.pdb
+C:\Users\frederick.clark\Documents\Visual Studio 11\Projects\NeuralNetworks\NeuralNetworks\obj\Debug\ClarkNN.dll
+C:\Users\frederick.clark\Documents\Visual Studio 11\Projects\NeuralNetworks\NeuralNetworks\obj\Debug\ClarkNN.pdb
